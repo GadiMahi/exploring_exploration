@@ -1,0 +1,48 @@
+[1.390s] Invoking command in '/home/mahi/gps_frontier_explorer/exploring_exploration/src/gps_frontier_explorer': PYTHONPATH=/home/mahi/gps_frontier_explorer/exploring_exploration/build/gps_frontier_explorer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mahi/gps_frontier_explorer/exploring_exploration/install/gps_frontier_explorer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/gps_frontier_explorer build --build-base /home/mahi/gps_frontier_explorer/exploring_exploration/build/gps_frontier_explorer/build install --record /home/mahi/gps_frontier_explorer/exploring_exploration/build/gps_frontier_explorer/install.log --single-version-externally-managed install_data
+[1.868s] running egg_info
+[1.869s] creating ../../build/gps_frontier_explorer/gps_frontier_explorer.egg-info
+[1.869s] writing ../../build/gps_frontier_explorer/gps_frontier_explorer.egg-info/PKG-INFO
+[1.869s] writing dependency_links to ../../build/gps_frontier_explorer/gps_frontier_explorer.egg-info/dependency_links.txt
+[1.870s] writing entry points to ../../build/gps_frontier_explorer/gps_frontier_explorer.egg-info/entry_points.txt
+[1.870s] writing requirements to ../../build/gps_frontier_explorer/gps_frontier_explorer.egg-info/requires.txt
+[1.870s] writing top-level names to ../../build/gps_frontier_explorer/gps_frontier_explorer.egg-info/top_level.txt
+[1.870s] writing manifest file '../../build/gps_frontier_explorer/gps_frontier_explorer.egg-info/SOURCES.txt'
+[1.873s] reading manifest file '../../build/gps_frontier_explorer/gps_frontier_explorer.egg-info/SOURCES.txt'
+[1.874s] writing manifest file '../../build/gps_frontier_explorer/gps_frontier_explorer.egg-info/SOURCES.txt'
+[1.874s] running build
+[1.874s] running build_py
+[1.874s] creating /home/mahi/gps_frontier_explorer/exploring_exploration/build/gps_frontier_explorer/build
+[1.874s] creating /home/mahi/gps_frontier_explorer/exploring_exploration/build/gps_frontier_explorer/build/lib
+[1.875s] creating /home/mahi/gps_frontier_explorer/exploring_exploration/build/gps_frontier_explorer/build/lib/gps_frontier_explorer
+[1.875s] copying gps_frontier_explorer/__init__.py -> /home/mahi/gps_frontier_explorer/exploring_exploration/build/gps_frontier_explorer/build/lib/gps_frontier_explorer
+[1.875s] copying gps_frontier_explorer/frontier_detection.py -> /home/mahi/gps_frontier_explorer/exploring_exploration/build/gps_frontier_explorer/build/lib/gps_frontier_explorer
+[1.875s] copying gps_frontier_explorer/gps_frontier_node.py -> /home/mahi/gps_frontier_explorer/exploring_exploration/build/gps_frontier_explorer/build/lib/gps_frontier_explorer
+[1.875s] copying gps_frontier_explorer/nav2_client.py -> /home/mahi/gps_frontier_explorer/exploring_exploration/build/gps_frontier_explorer/build/lib/gps_frontier_explorer
+[1.875s] copying gps_frontier_explorer/frontier_selection.py -> /home/mahi/gps_frontier_explorer/exploring_exploration/build/gps_frontier_explorer/build/lib/gps_frontier_explorer
+[1.875s] running install
+[1.876s] running install_lib
+[1.876s] creating /home/mahi/gps_frontier_explorer/exploring_exploration/install/gps_frontier_explorer/lib/python3.10/site-packages/gps_frontier_explorer
+[1.877s] copying /home/mahi/gps_frontier_explorer/exploring_exploration/build/gps_frontier_explorer/build/lib/gps_frontier_explorer/__init__.py -> /home/mahi/gps_frontier_explorer/exploring_exploration/install/gps_frontier_explorer/lib/python3.10/site-packages/gps_frontier_explorer
+[1.877s] copying /home/mahi/gps_frontier_explorer/exploring_exploration/build/gps_frontier_explorer/build/lib/gps_frontier_explorer/frontier_detection.py -> /home/mahi/gps_frontier_explorer/exploring_exploration/install/gps_frontier_explorer/lib/python3.10/site-packages/gps_frontier_explorer
+[1.877s] copying /home/mahi/gps_frontier_explorer/exploring_exploration/build/gps_frontier_explorer/build/lib/gps_frontier_explorer/gps_frontier_node.py -> /home/mahi/gps_frontier_explorer/exploring_exploration/install/gps_frontier_explorer/lib/python3.10/site-packages/gps_frontier_explorer
+[1.877s] copying /home/mahi/gps_frontier_explorer/exploring_exploration/build/gps_frontier_explorer/build/lib/gps_frontier_explorer/nav2_client.py -> /home/mahi/gps_frontier_explorer/exploring_exploration/install/gps_frontier_explorer/lib/python3.10/site-packages/gps_frontier_explorer
+[1.877s] copying /home/mahi/gps_frontier_explorer/exploring_exploration/build/gps_frontier_explorer/build/lib/gps_frontier_explorer/frontier_selection.py -> /home/mahi/gps_frontier_explorer/exploring_exploration/install/gps_frontier_explorer/lib/python3.10/site-packages/gps_frontier_explorer
+[1.878s] byte-compiling /home/mahi/gps_frontier_explorer/exploring_exploration/install/gps_frontier_explorer/lib/python3.10/site-packages/gps_frontier_explorer/__init__.py to __init__.cpython-310.pyc
+[1.878s] byte-compiling /home/mahi/gps_frontier_explorer/exploring_exploration/install/gps_frontier_explorer/lib/python3.10/site-packages/gps_frontier_explorer/frontier_detection.py to frontier_detection.cpython-310.pyc
+[1.879s] byte-compiling /home/mahi/gps_frontier_explorer/exploring_exploration/install/gps_frontier_explorer/lib/python3.10/site-packages/gps_frontier_explorer/gps_frontier_node.py to gps_frontier_node.cpython-310.pyc
+[1.879s] byte-compiling /home/mahi/gps_frontier_explorer/exploring_exploration/install/gps_frontier_explorer/lib/python3.10/site-packages/gps_frontier_explorer/nav2_client.py to nav2_client.cpython-310.pyc
+[1.880s] byte-compiling /home/mahi/gps_frontier_explorer/exploring_exploration/install/gps_frontier_explorer/lib/python3.10/site-packages/gps_frontier_explorer/frontier_selection.py to frontier_selection.cpython-310.pyc
+[1.880s] running install_data
+[1.880s] creating /home/mahi/gps_frontier_explorer/exploring_exploration/install/gps_frontier_explorer/share/ament_index
+[1.880s] creating /home/mahi/gps_frontier_explorer/exploring_exploration/install/gps_frontier_explorer/share/ament_index/resource_index
+[1.880s] creating /home/mahi/gps_frontier_explorer/exploring_exploration/install/gps_frontier_explorer/share/ament_index/resource_index/packages
+[1.880s] copying resource/gps_frontier_explorer -> /home/mahi/gps_frontier_explorer/exploring_exploration/install/gps_frontier_explorer/share/ament_index/resource_index/packages
+[1.881s] copying package.xml -> /home/mahi/gps_frontier_explorer/exploring_exploration/install/gps_frontier_explorer/share/gps_frontier_explorer
+[1.881s] creating /home/mahi/gps_frontier_explorer/exploring_exploration/install/gps_frontier_explorer/share/gps_frontier_explorer/launch
+[1.881s] copying launch/gps_frontier_explorer.launch.py -> /home/mahi/gps_frontier_explorer/exploring_exploration/install/gps_frontier_explorer/share/gps_frontier_explorer/launch
+[1.881s] running install_egg_info
+[1.882s] Copying ../../build/gps_frontier_explorer/gps_frontier_explorer.egg-info to /home/mahi/gps_frontier_explorer/exploring_exploration/install/gps_frontier_explorer/lib/python3.10/site-packages/gps_frontier_explorer-0.0.0-py3.10.egg-info
+[1.883s] running install_scripts
+[1.914s] Installing gps_frontier_node script to /home/mahi/gps_frontier_explorer/exploring_exploration/install/gps_frontier_explorer/lib/gps_frontier_explorer
+[1.923s] writing list of installed files to '/home/mahi/gps_frontier_explorer/exploring_exploration/build/gps_frontier_explorer/install.log'
+[1.967s] Invoked command in '/home/mahi/gps_frontier_explorer/exploring_exploration/src/gps_frontier_explorer' returned '0': PYTHONPATH=/home/mahi/gps_frontier_explorer/exploring_exploration/build/gps_frontier_explorer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mahi/gps_frontier_explorer/exploring_exploration/install/gps_frontier_explorer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/gps_frontier_explorer build --build-base /home/mahi/gps_frontier_explorer/exploring_exploration/build/gps_frontier_explorer/build install --record /home/mahi/gps_frontier_explorer/exploring_exploration/build/gps_frontier_explorer/install.log --single-version-externally-managed install_data
